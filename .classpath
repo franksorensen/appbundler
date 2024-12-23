@@ -5,7 +5,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.apache.ivyde.eclipse.cpcontainer.IVYDE_CONTAINER/?project=appbundler&amp;ivyXmlPath=ivy.xml&amp;confs=*"/>
 	<classpathentry kind="src" path="appbundler/src"/>
-	<classpathentry kind="lib" path="/mnt/data/workspace/imagemanager/lib/ant-1.10.5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

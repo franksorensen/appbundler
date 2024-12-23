@@ -1,0 +1,6 @@
+<ivy-module version="2.0">
+    <info organisation="TheInfiniteKind" module="appbundler" status="integration" />
+    <dependencies>
+        <dependency org="org.apache.ant" name="ant" rev="1.10.15" transitive="false" />
+    </dependencies>
+</ivy-module>
