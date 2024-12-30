@@ -1,0 +1,7 @@
+"JRELoadError" = "Kunne ikke indlæse Java Runtime Environment.";
+"JRExLoadError" = "Kunne ikke indlæse et Java %d Runtime Environment.";
+"JRExLoadFullError" = "Dette program kræver at Java %d eller nyere er installeret på computeren. Download og installer den nyeste version af Java fra www.java.com og prøv igen.";
+"JDKxLoadFullError" = "Dette program kræver at et Java %d JDK eller nyere er installeret på computeren. Download og installer den nyeste version af Java fra Oracle.com og prøv igen.";
+"MainClassNameRequired" = "Der kræves et navn for hoved-klassen.";
+"JavaDirectoryNotFound" = "Kunne ikke læse indholdet af Java-biblioteket.";
+"BundlePathContainsColon" = "Kan ikke køre fra et bibliotek, der har en \"/\" i navnet.";
